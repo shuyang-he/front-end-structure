@@ -1,0 +1,192 @@
+.icl-Body {
+  font-size: 0.875rem;
+  line-height: 1.43;
+  margin-bottom: 1rem;
+}
+.icl-Body,
+.icl-Body--lg {
+  font-family: Helvetica Neue, Helvetica, Arial, Liberation Sans, Roboto, Noto,
+    sans-serif;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+.icl-Body--lg {
+  font-size: 1rem;
+  line-height: 1.38;
+}
+.icl-Body--sm {
+  font-family: Helvetica Neue, Helvetica, Arial, Liberation Sans, Roboto, Noto,
+    sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0;
+  font-weight: 400;
+  line-height: 1.34;
+}
+.icl-Heading1 {
+  font-size: 1.4375rem;
+  font-weight: 700;
+  line-height: 1.22;
+}
+.icl-Heading1,
+.icl-Heading2 {
+  font-family: Helvetica Neue, Helvetica, Arial, Liberation Sans, Roboto, Noto,
+    sans-serif;
+  letter-spacing: -0.1px;
+  margin-bottom: 0.5rem;
+  margin-top: 1em;
+}
+.icl-Heading2 {
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 1.3;
+}
+.icl-Heading3 {
+  font-family: Helvetica Neue, Helvetica, Arial, Liberation Sans, Roboto, Noto,
+    sans-serif;
+  font-size: 1.125rem;
+  letter-spacing: -0.06px;
+  font-weight: 700;
+  line-height: 1.34;
+  margin-bottom: 0.5rem;
+  margin-top: 1em;
+}
+.icl-Heading4 {
+  font-weight: 700;
+}
+.icl-Heading4,
+.icl-Heading5 {
+  font-family: Helvetica Neue, Helvetica, Arial, Liberation Sans, Roboto, Noto,
+    sans-serif;
+  font-size: 1rem;
+  letter-spacing: 0;
+  line-height: 1.38;
+  margin-bottom: 0.5rem;
+  margin-top: 1em;
+}
+.icl-Heading5,
+.icl-Heading6 {
+  font-weight: 400;
+}
+.icl-Heading6 {
+  font-family: Helvetica Neue, Helvetica, Arial, Liberation Sans, Roboto, Noto,
+    sans-serif;
+  font-size: 0.875rem;
+  letter-spacing: 0;
+  line-height: 1.43;
+  margin-bottom: 0.5rem;
+  margin-top: 1em;
+}
+/* addition */
+.icl-TextLink--primary {
+  text-decoration: none;
+  color: #085ff7;
+}
+.icl-TextLink--primary:active,
+.icl-TextLink--primary:focus,
+.icl-TextLink--primary:hover,
+.icl-TextLink--primary:visited {
+  text-decoration: underline;
+}
+.icl-TextLink--primary:visited {
+  color: #5a38d6;
+}
+.icl-TextLink--primary:active,
+.icl-TextLink--primary:focus,
+.icl-TextLink--primary:hover {
+  color: #1497ff;
+}
+.icl-TextLink--secondary {
+  text-decoration: none;
+  color: #000;
+}
+.icl-TextLink--secondary:active,
+.icl-TextLink--secondary:focus,
+.icl-TextLink--secondary:hover,
+.icl-TextLink--secondary:visited {
+  text-decoration: underline;
+}
+.icl-TextLink--secondary:visited {
+  color: #6f6f6f;
+}
+.icl-TextLink--secondary:active,
+.icl-TextLink--secondary:focus,
+.icl-TextLink--secondary:hover {
+  color: #000;
+}
+.icl-u-textBold {
+  font-weight: 700 !important;
+}
+.icl-u-textNormal {
+  font-weight: 400 !important;
+}
+.icl-u-textColor--secondary {
+  color: #4b4b4b !important;
+}
+.icl-u-textColor--tertiary {
+  color: #6f6f6f !important;
+}
+.icl-u-textColor--emphasized {
+  color: #f60 !important;
+}
+.icl-u-textColor--sponsored {
+  color: #d43389 !important;
+}
+.icl-u-textColor--error {
+  color: #db183f !important;
+}
+.icl-u-textColor--success {
+  color: #00825f !important;
+}
+.icl-u-textSize1 {
+  font-size: 1.4375rem !important;
+  line-height: 1.22 !important;
+}
+.icl-u-textSize1,
+.icl-u-textSize2 {
+  font-family: Helvetica Neue, Helvetica, Arial, Liberation Sans, Roboto, Noto,
+    sans-serif !important;
+  letter-spacing: -0.1px !important;
+  font-weight: 400 !important;
+}
+.icl-u-textSize2 {
+  font-size: 1.25rem !important;
+  line-height: 1.3 !important;
+}
+.icl-u-textSize3 {
+  font-family: Helvetica Neue, Helvetica, Arial, Liberation Sans, Roboto, Noto,
+    sans-serif !important;
+  font-size: 1.125rem !important;
+  letter-spacing: -0.06px !important;
+  font-weight: 400 !important;
+  line-height: 1.34 !important;
+}
+.icl-u-textSize4 {
+  font-size: 1rem !important;
+  line-height: 1.38 !important;
+}
+.icl-u-textSize4,
+.icl-u-textSize5 {
+  font-family: Helvetica Neue, Helvetica, Arial, Liberation Sans, Roboto, Noto,
+    sans-serif !important;
+  letter-spacing: 0 !important;
+  font-weight: 400 !important;
+}
+.icl-u-textSize5 {
+  font-size: 0.875rem !important;
+  line-height: 1.43 !important;
+}
+.icl-u-textSize6 {
+  font-size: 0.75rem !important;
+  line-height: 1.34 !important;
+}
+.icl-u-textSize6,
+.icl-u-textSize7 {
+  font-family: Helvetica Neue, Helvetica, Arial, Liberation Sans, Roboto, Noto,
+    sans-serif !important;
+  letter-spacing: 0 !important;
+  font-weight: 400 !important;
+}
+.icl-u-textSize7 {
+  font-size: 0.6875rem !important;
+  line-height: 1.46 !important;
+}
