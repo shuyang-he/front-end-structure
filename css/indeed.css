@@ -9,12 +9,11 @@
 }
 
 .nav__container {
-  width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  background-color: var(--positive-background);
+  background-color: var(--fds-gray-45);
 }
 
 .nav__logo {
